@@ -27,8 +27,11 @@ Always learning and building new projects.
 
 
 🚀 Build web applications
+
 ⚙️ Develop backend systems
+
 🗄️ Work with relational databases
+
 📚 Continuously improve my development skills
 
 ---
