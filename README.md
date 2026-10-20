@@ -1,11 +1,11 @@
 # Hi 👋, I'm Kaíke Carvalho
 
- **Junior Developer | PHP & MySQL**  
+ **Software Engineer | Java Spring**  
 🇧🇷 Brazil
 
-I build **web applications**, **systems**, and **digital solutions** using PHP & MySQL
-I'm passionate about software development and continuously improving my skills in architecture, performance, clean code, and scalable systems.
-Always learning and building new projects.
+💻 I build digital solutions for businesses of all kinds.
+⚙️ I specialize in turning complex business rules into scalable systems.
+🚀 I develop efficient, maintainable, and high-performance software.
 
 ---
 
@@ -38,11 +38,15 @@ Always learning and building new projects.
 
 ## 🛠️ Tech Stack
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
